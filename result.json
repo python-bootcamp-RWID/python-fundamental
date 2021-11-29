@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "Leanne Graham",
+  "username": "Bret",
+  "email": "Sincere@april.biz",
+  "address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 223",
+    "city": "Wado",
+    "zipcode": "939393-212",
+    "geo": {
+      "lat": "-38.03023",
+      "lng": "82.21212"
+    }
+  }
+}
